@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,300italic,400italic");
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap');
 @import url("/assets/css/fontawesome-all.min.css");
 
 
@@ -1312,8 +1312,6 @@ body {
 	background-position: left top;
 }
 
-
-
 body.is-preload *, body.is-preload *:before, body.is-preload *:after {
 	-moz-animation: none !important;
 	-webkit-animation: none !important;
@@ -1326,7 +1324,7 @@ body.is-preload *, body.is-preload *:before, body.is-preload *:after {
 }
 
 body, input, textarea, select {
-	font-family: 'Source Sans Pro', sans-serif;
+	font-family: 'Noto Sans', sans-serif;
 	font-weight: 300;
 	color: #777777;
 	font-size: 20pt;
